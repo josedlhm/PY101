@@ -1,0 +1,11 @@
+{
+"English":
+	{
+	"welcome": "Welcome to Calculator bitch!", 
+	"first_prompt": "What's the first number?"
+	},
+"Spanish": {
+	"welcome": "Bienvenido", 
+	"first_prompt": "What's the first number?"
+	}
+}
